@@ -1,6 +1,7 @@
-//
-// Created by Mr.Hu on 2018/11/2.
-//
+/**
+ * Created by Xiaozhong on 2018/11/2.
+ * Copyright (c) 2018/11/2 Xiaozhong. All rights reserved.
+ */
 
 #ifndef DSANDAA_UTIL_H
 #define DSANDAA_UTIL_H
