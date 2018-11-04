@@ -4,9 +4,14 @@
  */
 
 #include <iostream>
-#include "util.h"
+#include <string>
 
 using namespace std;
+
+const char* std_convert(int input) {
+    string result = to_string(input);
+    return result.data();
+}
 
 int main() {
     int input;
