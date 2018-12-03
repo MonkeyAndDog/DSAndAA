@@ -13,3 +13,7 @@
     * [ArrayList](/algorithm_analysis/array_list.h)
     * [BigInteger](/algorithm_analysis/BigInteger2.h)
     * **[程序计数器](/algorithm_analysis/code_counter.py)**
+8. [使用单链表实现多项式相加](/algorithm_analysis/)
+    * [链表元素类](/algorithm_analysis/MultinomialElem.h)
+    * [链表](/algorithm_analysis/Multinomial.h)
+    * [运行器](/algorithm_analysis/multinomial_runner.cpp)
