@@ -17,3 +17,5 @@
     * [链表元素类](/algorithm_analysis/MultinomialElem.h)
     * [链表](/algorithm_analysis/Multinomial.h)
     * [运行器](/algorithm_analysis/multinomial_runner.cpp)
+9. [简单计算器](/algorithm_analysis/)
+    * [中缀转后缀并计算表达式](/algorithm_analysis/InfixToPostfixConversion.cpp)

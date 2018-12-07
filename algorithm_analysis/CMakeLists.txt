@@ -4,3 +4,5 @@ aux_source_directory(. DIR_SRCS)
 add_executable(summator_runner2 summator_runner.cpp array_list.h array_list.cpp BigInteger2.cpp BigInteger2.h)
 
 add_executable(multinomial_runner multinomial_runner.cpp Multinomial.cpp Multinomial.h MultinomialElem.cpp MultinomialElem.h)
+
+add_executable(InfixToPostfixConversion InfixToPostfixConversion.cpp)
